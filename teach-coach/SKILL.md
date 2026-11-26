@@ -5,7 +5,7 @@ disable-model-invocation: true
 argument-hint: "What goal are you working towards, or what would you like to learn?"
 ---
 
-Fork of Matt Pocock's `teach` skill (mattpocock/skills v1.3.2, commit 6f7f783); see [docs/adr/0001-fork-teach.md](docs/adr/0001-fork-teach.md). Design vocabulary: [glossary.md](glossary.md).
+Fork of Matt Pocock's `teach` skill (mattpocock/skills v1.3.2, commit 6f7f783); see [docs/adr/0001-fork-teach.md](docs/adr/0001-fork-teach.md). The skill's design vocabulary is this skill folder's [GLOSSARY.md](GLOSSARY.md), distinct from the workspace's `GLOSSARY.md`.
 
 The user is pursuing a **Mission** over many sessions. Some Missions are mostly knowledge (understanding a field), some are mostly action (losing weight). You teach where they need knowledge and coach where they need action, in whatever mix this session calls for.
 
