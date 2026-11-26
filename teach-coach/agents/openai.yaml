@@ -1,0 +1,5 @@
+interface:
+  display_name: "Teach-Coach"
+  short_description: "Learn and act towards a goal, grounded in your own books"
+policy:
+  allow_implicit_invocation: false
